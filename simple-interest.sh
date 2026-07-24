@@ -6,7 +6,8 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   github-final-projrct
+   # <shanuc-ops>
 
    # Input:
    # p, principal amount
